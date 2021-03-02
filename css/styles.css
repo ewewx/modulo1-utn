@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(34, 156, 136, 0.527);
+    background-color: #f4f9f9;
     margin:0;
     width: 1240px;
 }
@@ -22,14 +22,14 @@ body{
     border-style: dotted;
     margin-left:20px;
     text-align: center;
-    background-color: chartreuse;
+    background-color:#ccf2f4;
     
 }
 .lista1:hover{
     background-color: cornflowerblue;
 }
 .caja2 {
-    background-color: #eb5e0b;
+    background-color: #a4ebf3;
     height:150px;
     margin-right: 0;
     width:100%;
@@ -67,7 +67,7 @@ body{
 .foto1{
     width:200px;
     height: 200px;
-    background-color: darkmagenta;
+    background-color: #8b6c6c;
 }
 .foto2{
     width:200px;
@@ -104,7 +104,7 @@ body{
     height: 300px;
     margin-left:90px;
     margin-top: 20px;
-    background-color: rgba(94, 7, 7, 0.747);
+    background-color:#aaaaaa;
 }
 .texto{
     height: 300px;
