@@ -1,0 +1,137 @@
+body{
+    background-color: rgba(34, 156, 136, 0.527);
+    margin:0;
+}
+
+.banner{
+    list-style-type: none;
+    float:right;
+    margin-right: 150px;
+    margin-top:-190px;
+    margin-bottom:  
+
+
+}
+.lista1 {
+    
+    display:inline;
+    padding:20px 50px;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 1.5rem ;
+    border-style: dotted;
+    margin-left:20px;
+    text-align: center;
+    background-color: chartreuse;
+    
+}
+.lista1:hover{
+    background-color: cornflowerblue;
+}
+.caja2 {
+    background-color: #eb5e0b;
+    height:150px;
+    
+    
+    
+}
+.menu { 
+    
+    list-style-type: none;
+    margin:0 auto;
+    text-align: center;
+     
+}
+.lista2{
+    float:left;
+    font-size: 1.5rem;
+    font-family: 'DotGothic16', sans-serif;
+    margin:50px 30px 30px 30px ;
+    text-align: center;
+    padding: 30px 70px;
+    background-color: blue;
+    
+     
+}
+.lista2:hover{
+    background-color: crimson;
+}
+.listarda{
+    margin-left: 370px;
+    
+}
+.foto1{
+    width:200px;
+    height: 200px;
+    background-color: darkmagenta;
+}
+.foto2{
+    width:200px;
+    height: 200px;
+    background-color: darkorchid;
+}    
+.foto3{
+        width:200px;
+        height: 200px;
+        background-color: darksalmon;
+        
+    
+}
+.parte1{
+    float:left;
+    padding-left:300px;
+    
+}
+.parte2{
+    float:left;
+    margin-left:60px;
+
+}
+.parte3{
+    float:left;
+    margin-left:60px;
+
+}
+.caja3{
+    margin:100px auto  60px; ;
+}
+.logo{
+    width:300px;
+    height: 300px;
+    margin-left:90px;
+    margin-top: 20px;
+    background-color: red;
+}
+.texto{
+    height: 300px;
+    background-color: #a3d2ca;
+}
+.caja4{
+    margin-bottom: 0 60px;
+    clear: left;
+    height: 100px;
+    background-color:rgba(34, 156, 136, 0.527) ;
+}
+.bottom-bar{
+    display:inline;
+    list-style-type: none;
+    
+}
+.bottom-list{
+    float:left;
+    
+    font-size: 1.5rem;
+    
+    font-family: 'DotGothic16', sans-serif;
+    margin:10px 30px ;
+    text-align: center;
+    padding:30px 68px;
+    background-color:#f8f1f1;
+   
+
+}
+.bottom1{
+    margin-left: 300px;
+}
+.bottom-list:hover{
+    background-color: black;
+}
