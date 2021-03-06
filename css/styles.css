@@ -1,151 +1,113 @@
+header, section, footer{
+  width:960px;
+  margin-left : auto;
+  margin-right:auto;
+  }
+  header{
+    height:300px;
+    background-color:#f4f9f9;
+  }
+section{
+  height:600px;
+  background-color:#a4ebf3;
+}
+footer{
+  height:150px;
+  background-color:black;
+}
+#logo{
+  width:200px;
+  height:200px;
+  background-color: cornflowerblue;
+  float:left;
+  margin-top:50px;
+  margin-left:50px;
+  }
+#botonera{
+  float:right;
+  background-color:grey;
+  height: 50px;
+  width:500px;
+  margin-right:60px;
+  margin-top:130px;
+}
+#menu{
+  width:700px;
+  height:50px;
+  background-color:crimson;
+  margin-left: auto;
+  margin-right:auto;
+}
+#foto1{
+  width:150px;
+  height:200px;
+  background-color:#aaaaaa;
+  float:left;
+    margin-left: 200px;
+    margin-top:20px;
+  
+  
+}
+#foto2{
+  width:150px;
+  height:200px;
+  background-color:darksalmon;
+  float:left;
+  margin-left:60px;
+  margin-top:20px;
+  
+}
+#foto3{
+  width:150px;
+  height:200px;
+  background-color:darkorchid;
+  float:left;
+  margin-left:60px;
+  margin-top:20px;
+}
+#texto1{
+   width:150px;
+  height:250px;
+  background-color:#b7657b;
+  clear:left;
+  float:left;
+  margin-left:200px;
+  margin-top:10px;
+}
+#texto2{
+  width:150px;
+  height:250px;
+  background-color:#8f4f4f;
+  float:left;
+  margin-top:10px;
+  margin-left:60px;
+      
+}
+#texto3{
+ float: left;
+  width:150px;
+  height:250px;
+  background-color:#F2B4B4;
+   margin-top:10px;
+  margin-left:60px;
+  
+}
+#contacto{
+  width:600px;
+  height:50px;
+  background-color:white;
+  float:left;
+  margin-top:50px;
+  margin-left:20px;
+}
+#imagen{
+  float:right;
+  width:100px;
+  height:100px;
+  background-color:pink;
+  margin-top:25px;
+  margin-right:100px;
+}
 body{
-    background-color: #f4f9f9;
-    margin:0;
-    width: 1240px;
-}
-
-.banner{
-    list-style-type: none;
-    float:right;
-    margin-right: 150px;
-    margin-top:-190px;
-    margin-bottom:  
-
-
-}
-.lista1 {
-    
-    display:inline;
-    padding:20px 50px;
-    font-family: 'DotGothic16', sans-serif;
-    font-size: 1.5rem ;
-    border-style: dotted;
-    margin-left:20px;
-    text-align: center;
-    background-color:#ccf2f4;
-    
-}
-.lista1:hover{
-    background-color: cornflowerblue;
-}
-.caja2 {
-    background-color: #a4ebf3;
-    height:150px;
-    margin-right: 0;
-    width:100%;
-    position:absolute;
-    right: 0;
-    
-    
-    
-}
-.menu { 
-    width:100%;
-    list-style-type: none;
-    margin:0 auto;
-    text-align: center;
-     
-}
-.lista2{
-    float:left;
-    font-size: 1.5rem;
-    font-family: 'DotGothic16', sans-serif;
-    margin:50px 30px 30px 30px ;
-    text-align: center;
-    padding: 30px 70px;
-    background-color: blue;
-    
-     
-}
-.lista2:hover{
-    background-color: crimson;
-}
-.listarda{
-    margin-left: 370px;
-    
-}
-.foto1{
-    width:200px;
-    height: 200px;
-    background-color: #8b6c6c;
-}
-.foto2{
-    width:200px;
-    height: 200px;
-    background-color: darkorchid;
-}    
-.foto3{
-        width:200px;
-        height: 200px;
-        background-color: darksalmon;
-        
-    
-}
-.parte1{
-    float:left;
-    padding-left:300px;
-    
-}
-.parte2{
-    float:left;
-    margin-left:60px;
-
-}
-.parte3{
-    float:left;
-    margin-left:60px;
-
-}
-.caja3{
-    margin:200px auto  100px; ;
-}
-.logo{
-    width:300px;
-    height: 300px;
-    margin-left:90px;
-    margin-top: 20px;
-    background-color:#aaaaaa;
-}
-.texto{
-    height: 300px;
-    background-color: #a3d2ca;
-    margin-bottom:100px;
-}
-.caja4{
-    margin-bottom: 0 ;
-    margin-top: 100px;
-    width: 100%;
-    clear: left;
-    height: 80px;
-    background-color:rgba(34, 156, 136, 0.527);
-    position:fixed;
-    left:0;
-    bottom:0;
-}
-.bottom-bar{
-    
-    display:inline;
-    list-style-type: none;
-    width:100%;
-
-    
-}
-.bottom-list{
-    float:left;
-    
-    font-size: 1.5rem;
-    
-    font-family: 'DotGothic16', sans-serif;
-    margin:10px 30px ;
-    text-align: center;
-    padding:30px 68px;
-    background-color:#f8f1f1;
-   
-
-}
-.bottom1{
-    margin-left: 300px;
-}
-.bottom-list:hover{
-    background-color: black;
+  margin:0
 }
